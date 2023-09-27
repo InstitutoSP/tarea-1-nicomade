@@ -22,3 +22,7 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+
+Integrantes: Becerra y Made 
+
+Al abrir el body, utilizamos el h1 como título, el h2 como subtítulo, p para poner información, una imagen del tema con img y un footer en el que pusimos nuestros nombres
